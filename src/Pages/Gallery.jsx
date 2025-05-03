@@ -51,7 +51,7 @@ const Carousel = () => {
 		slidesToShow: 3,
 		slidesToScroll: 1,
 		autoplay: true,
-		autoplaySpeed: 6000,
+		autoplaySpeed: 2000,
 		dots: true,
 		responsive: [
 			{
